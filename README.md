@@ -5,7 +5,8 @@ Red generativa adversarial (SRGAN) en **TensorFlow/Keras** que duplica la resolu
 Proyecto del curso **Redes Neuronales y Deep Learning** (Miniproyecto 3: Redes generativas) — Universidad Autónoma de Occidente, Cali, Colombia.
 
 <!-- Reemplaza por una imagen real: entrada | bicúbica | SRGAN -->
-![Ejemplo de resultado](docs/ejemplo_resultado.png)
+<img width="1182" height="390" alt="image" src="https://github.com/user-attachments/assets/a149828c-4801-4713-ac4b-c04918da0599" />
+
 
 ## Descripción
 
