@@ -96,14 +96,7 @@ tensorboard
 
 (El notebook monta Google Drive con `google.colab`, así que localmente habría que cambiar las rutas.)
 
-## Resultados
 
-Evaluación en el conjunto de validación (32×32 → 64×64):
-
-| Método | PSNR (dB) | SSIM |
-|---|---|---|
-| Bicúbica | **[COMPLETAR]** | **[COMPLETAR]** |
-| SRGAN | **[COMPLETAR]** | **[COMPLETAR]** |
 
 <!-- Agrega aquí las curvas de entrenamiento y las comparaciones visuales LR | SR | HR -->
 
